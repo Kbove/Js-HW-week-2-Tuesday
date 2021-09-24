@@ -8,4 +8,6 @@ This password generator powered by javascript uses window prompts and confirms t
 
 #### Link
 
+
 ##### Screenshot
+![PW  Gen Screenshot](https://user-images.githubusercontent.com/89953218/134607779-7a7f905c-70f1-459b-a544-df6f9a17f626.JPG)
