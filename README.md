@@ -7,6 +7,7 @@ As a user, I know that my privacy is questionable on the internet. That's why I 
 This password generator powered by javascript uses window prompts and confirms to collect user inputs in order to build out criteria for their randomly generated password. It'll direct you how to use it, display error messages if you try to do something to break it, and display a password given your specifications.
 
 #### Link
+https://kbove.github.io/Js-HW-week-2-Tuesday/
 
 
 ##### Screenshot
